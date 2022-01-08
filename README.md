@@ -5,7 +5,7 @@
   </a> &nbsp; 
 </p>
 
-hi, i'm Wouter Haringhuizen, a passionate student, currently studying <a href="https://www.uva.nl/programmas/bachelors/kunstmatige-intelligentie/kunstmatige-intelligentie.html" target="_blank"> Artificial Intelligence</a>. My passion for software lies with creating a better future with the machine as core component. 
+hi, i'm Wouter Haringhuizen, a passionate student, currently studying <a href="https://www.uva.nl/programmas/bachelors/kunstmatige-intelligentie/kunstmatige-intelligentie.html" target="_blank"> Artificial Intelligence</a>. My passion for software lies with creating a better future with modern day artificial technology. 
 
 💬 ask me about anything, i am happy to help;
 
